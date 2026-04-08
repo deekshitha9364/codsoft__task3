@@ -77,7 +77,7 @@ Iris-Flower-Classification/
 
 ### 🔹 1. Clone Repository
 
-git clone https://github.com/sharanya-57/codsoft_task3.git
+git clone https://github.com/deekshitha9364/codsoft__task3.git
 cd Iris-Flower-Classification
 
 ---
@@ -117,7 +117,7 @@ This project was completed as part of my internship at **CodSoft**.
 
 ## 🔗 Connect with Me
 
-* LinkedIn: https://www.linkedin.com/in/sharanya-dyasani
-* GitHub: https://github.com/sharanya-57
+* LinkedIn: https://www.linkedin.com/in/golkonda-deekshitha
+* GitHub: https://github.com/deekshitha9364
 
 ---
